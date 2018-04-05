@@ -1,8 +1,8 @@
 class Elmo < Formula
   desc "Keep your mac up to date"
   homepage "https://github.com/jozefdransfield"
-  url "https://github.com/jozefdransfield/homebrew-tap/raw/master/archive/elmo-0.0.1.tar.gz"
-  sha256 "b1c7ab25dfb4530a5e35aa690d79469de5ec419dd284f03868935c2417e1ee3a"
+  url "https://github.com/jozefdransfield/homebrew-tap/raw/master/Releases/elmo/elmo-0.0.1.tar.gz"
+  sha256 "b1ed9ea5b07d49dfbb7729fe07b99e189b0251bdaea3435f07269aba3ab855cda"
   version "0.0.1"
 
   #depends_on "curl"
